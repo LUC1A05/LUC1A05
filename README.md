@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-enlace/)](https://www.linkedin.com/in/tu-enlace/)
 [![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social)](https://github.com/LUC1A05)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tu-usuario?label=Follow&style=social)](https://twitter.com/tu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luciaaaaa_055/)
 
 ¡Bienvenido a mi perfil de GitHub! Soy Lucia.
 
