@@ -23,6 +23,7 @@
 ## REPOS
 <details>
 <summary>👨‍🎓 42</summary>
+<details>
 <summary>👨‍🎓 University</summary>
 <details>
 
