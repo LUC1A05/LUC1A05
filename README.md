@@ -20,6 +20,13 @@
 
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=LUC1A05&show_icons=true)
 
+## REPOS
+<details>
+<summary>👨‍🎓 University</summary>
+<details>
+<summary> First </summary>
+[![uni](https://img.shields.io/badge/Repositorio%201-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUC1A05/uni)
+
 ## Contacto
 
 - 📫 Puedes contactarme en lucializaso05@gmail.com
