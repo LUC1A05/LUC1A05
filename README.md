@@ -22,10 +22,11 @@
 
 ## REPOS
 <details>
+<summary>👨‍🎓 42</summary>
+<details>
+<details>
 <summary>👨‍🎓 University</summary>
 <details>
-  [uni](https://github.com/LUC1A05/uni)
-[![uni](https://img.shields.io/badge/Repositorio%201-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUC1A05/uni)
 
 ## Contacto
 
