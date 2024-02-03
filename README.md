@@ -24,7 +24,7 @@
 <details>
 <summary>👨‍🎓 University</summary>
 <details>
-<summary> First </summary>
+  [uni](https://github.com/LUC1A05/uni)
 [![uni](https://img.shields.io/badge/Repositorio%201-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUC1A05/uni)
 
 ## Contacto
