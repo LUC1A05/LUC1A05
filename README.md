@@ -23,11 +23,11 @@
 ## REPOS
 <details>
 <summary>👨‍🎓 42</summary>
-<details>
+</details>
 
 <details>
 <summary>👨‍🎓 University</summary>
-<details>
+</details>
 
 ## Contacto
 
