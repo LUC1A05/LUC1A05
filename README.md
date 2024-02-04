@@ -31,6 +31,7 @@
 
 <details>
 <summary>👨‍🎓 University</summary>
+  [![OP](https://img.shields.io/badge/Repositorio%201-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUC1A05/upv/tree/724fa9c33b2bde30fa1e0fad6e8c99ee4db6471a/OP)
 [OP](https://github.com/LUC1A05/upv/tree/724fa9c33b2bde30fa1e0fad6e8c99ee4db6471a/OP)
 </details>
 
