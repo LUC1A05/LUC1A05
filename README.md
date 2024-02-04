@@ -19,25 +19,24 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1A05&layout=compact)
 
 # Languages
+<p align = "center">
 <img src="img\ada.png"
 width="32"
 height="32"
 title="Ada">
-
 <img src="img\c.png"
 width="32"
 height="32"
 title="C">
-
 <img src="img\java.png"
 width="32"
 height="32"
 title="Java">
-
 <img src="img\Python-logo-notext.svg.png"
 width="32"
 height="32"
 title="Python">
+</p>
 
 # Tools
 
