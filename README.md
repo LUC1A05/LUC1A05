@@ -33,6 +33,7 @@
 ---
 ## Estadísticas GitHub
 <details>
+  <summary> STATS </summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LUC1A05&show_icons=true&theme=bear" width="500">
   </p>
