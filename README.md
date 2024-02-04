@@ -18,7 +18,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1A05&layout=compact)
 
-# Languages
+### Languages
 <p align = "center">
 <img src="img\ada.png"
 width="32"
@@ -38,8 +38,9 @@ height="32"
 title="Python">
 </p>
 
-# Tools
+### Tools
 
+<p align = "center">
 <img src="img\Blender_logo_no_text.svg.png"
 width="32"
 height="32"
@@ -48,6 +49,7 @@ title="Blender">
 width="32"
 height="32"
 title="DaVinci">
+</p>
 
 ---
 ## Estadísticas GitHub
