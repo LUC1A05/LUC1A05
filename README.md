@@ -2,8 +2,10 @@
 
 ## About me
 
-- 🔭 Actualmente estoy estudiando en 42Urduliz y UPV/EHU.
-- 🌱 Estoy estudiando ingenieria informatica.
+- 🔭 Currently studying computer science engineering.
+- 🌱 42Urduliz and UPV/EHU student.ç
+- ![image](https://github.com/LUC1A05/LUC1A05/assets/60438689/646ebf8d-c963-4468-89db-6ec83fa43c96)
+
 
 ## Languages and Tools
 
