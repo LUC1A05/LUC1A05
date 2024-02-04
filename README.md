@@ -3,8 +3,11 @@
 ## About me
 
 - 🔭 Currently studying computer science engineering.
-- 🌱 42Urduliz and UPV/EHU student.ç
-- ![image](https://github.com/LUC1A05/LUC1A05/assets/60438689/90fc7a4f-ec54-4270-8561-1028d2379004){:width="100px" height="100px"}
+- 🌱 42Urduliz and UPV/EHU student.
+- <img src="https://github.com/LUC1A05/LUC1A05/assets/60438689/90fc7a4f-ec54-4270-8561-1028d2379004"
+  width="32"
+  height="32"
+  title="DaVinci">
 
 
 
