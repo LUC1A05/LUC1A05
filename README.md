@@ -19,25 +19,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1A05&layout=compact)
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=black" alt="Java">
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  </a>
+ 
 </p>
 
 ---
 ## Estadísticas GitHub
-<details>
-  <summary> STATS </summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LUC1A05&show_icons=true&theme=bear" width="500">
-  </p>
-</details>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LUC1A05&show_icons=true&theme=bear" width="500">
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LUC1A05&theme=dark&hide_border=true" width="500">
 </p>
