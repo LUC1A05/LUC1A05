@@ -4,7 +4,8 @@
 
 - 🔭 Currently studying computer science engineering.
 - 🌱 42Urduliz and UPV/EHU student.ç
-- ![image](https://github.com/LUC1A05/LUC1A05/assets/60438689/646ebf8d-c963-4468-89db-6ec83fa43c96)
+- ![image](https://github.com/LUC1A05/LUC1A05/assets/60438689/90fc7a4f-ec54-4270-8561-1028d2379004)
+
 
 
 ## Languages and Tools
