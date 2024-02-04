@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Lucia
 
 [![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-enlace/)](https://www.linkedin.com/in/tu-enlace/)
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social)](https://github.com/LUC1A05)
+[![GitHub followers](https://img.shields.io/github/followers/LUC1A05?label=Follow&style=social)](https://github.com/LUC1A05)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luciaaaaa_055/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucializaso05@gmail.com)
 
