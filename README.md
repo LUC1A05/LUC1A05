@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1A05&layout=compact)
 
 ### Languages
-<p align = "center">
+<p align = "left">
 <img src="img\ada.png"
 width="32"
 height="32"
@@ -40,7 +40,7 @@ title="Python">
 
 ### Tools
 
-<p align = "center">
+<p align = "left">
 <img src="img\Blender_logo_no_text.svg.png"
 width="32"
 height="32"
