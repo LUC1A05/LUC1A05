@@ -21,7 +21,10 @@
 
 ---
 ## Estadísticas GitHub
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LUC1A05&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LUC1A05&theme=dark&hide_border=true" width="400">
+</p>
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=LUC1A05&show_icons=true)
 
 ---
@@ -36,6 +39,7 @@
 </details>
 
 ---
+
 ## Contacto
 
 - 📫 Puedes contactarme en lucializaso05@gmail.com
