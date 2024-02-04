@@ -15,7 +15,7 @@
 
 ---
 ## Languages and Tools
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/java/java.svg
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/java/java.svg>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1A05&layout=compact)
 
