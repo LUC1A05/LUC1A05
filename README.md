@@ -18,9 +18,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1A05&layout=compact)
 
-<p align="center">
- 
-</p>
+# Languages
+<img src="img\ada.png"
+width="32"
+height="32"
+title="Ada">
 
 ---
 ## Estadísticas GitHub
