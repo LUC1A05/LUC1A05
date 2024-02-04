@@ -8,6 +8,11 @@
   width="32"
   height="32"
   title="DaVinci">
+- <img src="https://github.com/LUC1A05/LUC1A05/assets/60438689/21fe31b4-0ed3-4377-81e2-bc23a6e13fb7"
+  width="32"
+  height="32"
+  title="DaVinci">
+
 
 
 
