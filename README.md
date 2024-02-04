@@ -1,19 +1,10 @@
-# ¡Hola! 👋 Soy Lucia
+# Hey, I'm Lucia!
 
-### Contacto
-[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-enlace/)](https://www.linkedin.com/in/tu-enlace/)
-[![GitHub followers](https://img.shields.io/github/followers/LUC1A05?label=Follow&style=social)](https://github.com/LUC1A05)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luciaaaaa_055/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucializaso05@gmail.com)
-
----
-## Acerca de mí
+## About me
 
 - 🔭 Actualmente estoy estudiando en 42Urduliz y UPV/EHU.
 - 🌱 Estoy estudiando ingenieria informatica.
-- 💬 Pregúntame sobre ...
 
----
 ## Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUC1A05&layout=compact)
@@ -51,7 +42,6 @@ height="32"
 title="DaVinci">
 </p>
 
----
 ## Estadísticas GitHub
 
 <p align="center">
@@ -62,8 +52,6 @@ title="DaVinci">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LUC1A05&theme=dark&hide_border=true" width="500">
 </p>
 
-
----
 ## REPOS
 <details>
 <summary>👨‍🎓 42</summary>
@@ -72,3 +60,9 @@ title="DaVinci">
 <details>
 <summary>👨‍🎓 University</summary>
 </details>
+
+### Contacto
+[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-enlace/)](https://www.linkedin.com/in/tu-enlace/)
+[![GitHub followers](https://img.shields.io/github/followers/LUC1A05?label=Follow&style=social)](https://github.com/LUC1A05)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luciaaaaa_055/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucializaso05@gmail.com)
