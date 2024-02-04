@@ -24,6 +24,32 @@ width="32"
 height="32"
 title="Ada">
 
+<img src="img\c.png"
+width="32"
+height="32"
+title="C">
+
+<img src="img\java.png"
+width="32"
+height="32"
+title="Java">
+
+<img src="img\Python-logo-notext.svg.png"
+width="32"
+height="32"
+title="Python">
+
+# Tools
+
+<img src="img\Blender_logo_no_text.svg.png"
+width="32"
+height="32"
+title="Blender">
+<img src="img\DaVinci_Resolve_Studio.png"
+width="32"
+height="32"
+title="DaVinci">
+
 ---
 ## Estadísticas GitHub
 
