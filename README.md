@@ -52,6 +52,7 @@ title="DaVinci">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LUC1A05&theme=dark&hide_border=true" width="500">
 </p>
 
+---
 ## REPOS
 <details>
 <summary>👨‍🎓 42</summary>
