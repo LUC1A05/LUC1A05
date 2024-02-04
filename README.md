@@ -15,10 +15,7 @@
 
 ---
 ## Languages and Tools
-<img src="img\pl\java.png"
-width="32"
-height="32"
-title="Java">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/Python/python.svg" />
 
 <img src="img\pl\python.png"
 width="32"
