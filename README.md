@@ -73,6 +73,13 @@ title="Visual">
 ## REPOS
 <details>
 <summary>👨‍🎓 42</summary>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=Libft.c)](https://github.com/LUC1A05/Libft.c)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=ft_printf)](https://github.com/LUC1A05/ft_printf)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=get_next_line)](https://github.com/LUC1A05/get_next_line)
+  
 </details>
 
 <details>
