@@ -58,6 +58,7 @@ height="32"
 title="Visual">
 </p>
 
+---
 
 ## Estadísticas GitHub
 
