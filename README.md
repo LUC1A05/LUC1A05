@@ -52,7 +52,6 @@ width="32"
 height="32"
 title="DaVinci">
 </p>
-
 <img src="img\Visual.png"
 width="32"
 height="32"
