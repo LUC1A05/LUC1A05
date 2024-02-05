@@ -85,7 +85,9 @@ title="Visual">
 <details>
 <summary>👨‍🎓 University</summary>
   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=upv)](https://github.com/LUC1A05/upv)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=upv)](https://github.com/LUC1A05/upv/OP)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=upv)](https://github.com/LUC1A05/upv/PMOBO)
   
 </details>
 
