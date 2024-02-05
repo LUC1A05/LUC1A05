@@ -77,6 +77,7 @@ title="Visual">
 
 <details>
 <summary>👨‍🎓 University</summary>
+  [gh repo clone LUC1A05/upv](https://github.com/LUC1A05/upv.git)
 </details>
 
 ### Contacto
