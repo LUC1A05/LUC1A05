@@ -77,7 +77,9 @@ title="Visual">
 
 <details>
 <summary>👨‍🎓 University</summary>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=upv&show_icons=true&theme=transparent)](https://github.com/LUC1A05/upv.git)
+  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=uni)](https://github.com/LUC1A05/uni)
+  
 </details>
 
 ### Contacto
