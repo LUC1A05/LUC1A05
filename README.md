@@ -62,7 +62,7 @@ title="Visual">
 
 ---
 
-## Estadísticas GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LUC1A05&show_icons=true&theme=bear" width="500">
@@ -92,7 +92,7 @@ title="Visual">
   
 </details>
 
-### Contacto
+### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-enlace/)](https://www.linkedin.com/in/tu-enlace/)
 [![GitHub followers](https://img.shields.io/github/followers/LUC1A05?label=Follow&style=social)](https://github.com/LUC1A05)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luciaaaaa_055/)
