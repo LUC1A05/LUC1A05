@@ -10,11 +10,11 @@
 - <img src="https://github.com/LUC1A05/LUC1A05/assets/60438689/90fc7a4f-ec54-4270-8561-1028d2379004"
   width="32"
   height="32"
-  title="DaVinci">
+  title="42">
 - <img src="https://github.com/LUC1A05/LUC1A05/assets/60438689/21fe31b4-0ed3-4377-81e2-bc23a6e13fb7"
   width="40"
   height="32"
-  title="DaVinci">
+  title="UPV">
 
 
 
