@@ -1,6 +1,6 @@
 # Hey, I'm Lucia!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luc1a05&label=Profile%20views&color=0e75b6&style=flat" alt="hecmarti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luc1a05&label=Profile%20views&color=0e75b6&style=flat" alt="luc1a05" /> </p>
 
 ## About me
 
