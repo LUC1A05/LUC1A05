@@ -88,6 +88,13 @@ title="Visual">
   
 </details>
 
+<details>
+<summary>Blender</summary>
+  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LUC1A05&repo=blender)](https://github.com/LUC1A05/blender)
+  
+</details>
+
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-enlace/)](https://www.linkedin.com/in/tu-enlace/)
 [![GitHub followers](https://img.shields.io/github/followers/LUC1A05?label=Follow&style=social)](https://github.com/LUC1A05)
