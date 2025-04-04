@@ -65,7 +65,7 @@ title="Visual">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LUC1A05&theme=dark&hide_border=true" width="500">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LUC1A05" alt="GitHub Streak" /></a>
 </p>
 
 ---
